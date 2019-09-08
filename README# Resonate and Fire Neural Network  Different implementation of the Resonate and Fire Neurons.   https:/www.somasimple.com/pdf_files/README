@@ -1,0 +1,10 @@
+# Interaction EPSP-IPSP in two neurons
+
+Two neurons, one excitatory the other inhibitory 
+The integration is performed by Runge-Kutta
+
+The code needs to be fed with two inputs corresponding of the conductance 
+The conductance can be here considered as the synaptic strength
+
+Graphic representations:
+    - Membrane Potential of the excitatory and inhibitory neurons over time. 
